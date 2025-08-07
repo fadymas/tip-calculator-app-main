@@ -68,7 +68,7 @@ input[type=number]:focus-visible {
     box-shadow: 0 0 0 2px var(--Green-400);
 }
 
-input[type=number].tip-calculator__input-field--invalid:focus {
+input[type=number].tip-calculator__input-field--invalid:focus-visible {
     box-shadow: 0 0 0 2px var(--color-red-700);
 }
 

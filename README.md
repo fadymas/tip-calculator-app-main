@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-tip-calculator-using-tailwind-css-and-vanilla-javascript-RWQrG2jdVk](https://www.frontendmentor.io/solutions/responsive-tip-calculator-using-tailwind-css-and-vanilla-javascript-RWQrG2jdVk)
 - Live Site URL: [https://fadymas.github.io/tip-calculator-app-main/](https://fadymas.github.io/tip-calculator-app-main/)
 
 ## My process
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to build I learned how to build responsive layouts that adapt to different screen sizes, fetch data from APIs, work with JSON, and implement skeleton loading for better user experience.
+I learned how to build I learned how to build responsive layouts that adapt to different screen sizes
 
 ### Useful resources
 
